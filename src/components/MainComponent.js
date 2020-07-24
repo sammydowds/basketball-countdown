@@ -53,7 +53,6 @@ class Main extends Component {
                         <img src="heart.png" /> <img src='nB@.png' />
                         <h1 className='display-2'>NBA is coming back in: </h1>
                         <h3 className='display-3'>{days} days {hours} hours {minutes} minutes {seconds} seconds</h3>
-                        <h2>bby come back</h2>
                         {highlight_info}
                     </Container>
                 </Jumbotron>
